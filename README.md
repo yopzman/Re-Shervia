@@ -55,7 +55,7 @@ Examples: `1` or `1,2,3`
 
 `||playlist linkin park meteora`
 * Now Playing (||np)
-* Queue system (/queue, ||q)
+* Queue system (||queue, ||q)
 * Loop / Repeat (||loop)
 * Shuffle (||shuffle)
 * Volume control (||volume, ||v)
