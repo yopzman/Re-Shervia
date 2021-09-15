@@ -1,15 +1,11 @@
-# Docker files
-Dockerfile
-.dockerignore
-
-# Git files
-.git
 .github
-.gitignore
-LICENSE
-README.md
-
-# Node modules and lint settings
+.vscode
 node_modules
-.eslintrc.json
+.gitignore
+.node-version
 .prettierrc
+.replit
+CODE_OF_CONDUCT.md
+config.json.example
+CONTRIBUTING.md
+Procfile

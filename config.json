@@ -1,6 +1,11 @@
 {
-    "prefix": "||",
-    "discord_owner_id": "349874541784334337",
-    "token": "ODQwMjAxMjc4NTIwNTU3NTk4.YJUwag.6R-n7tmza3JPAafpqZwNeaV0e14",
-    "youtubeAPI": "AIzaSyDDzZ-lv0MtO1V9zo9lxEyCyUo2EFsUJtU"
+    "TOKEN": "ODQwMjAxMjc4NTIwNTU3NTk4.YJUwag.WLh2uvx27c73VLnr--kcU-Y8DuY",
+    "YOUTUBE_API_KEY": "AIzaSyBnbXmTct22cuqMSbf9VGkrMKzvzqUfMgM",
+    "SOUNDCLOUD_CLIENT_ID": "",
+    "MAX_PLAYLIST_SIZE": 10,
+    "PREFIX": "||",
+    "PRUNING": false,
+    "LOCALE": "en",
+    "STAY_TIME": 30,
+    "DEFAULT_VOLUME": 100
 }
