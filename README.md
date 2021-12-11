@@ -1,5 +1,5 @@
-# 🤖 K2K (Discord Music Bot)
-> K2K is a Discord Music Bot built with discord.js & uses Command Handler from [discordjs.guide](https://discordjs.guide)
+# 🤖 Re:Shervia (Discord Music Bot)
+> Re:Shervia is a Discord Music Bot built with discord.js & uses Command Handler from [discordjs.guide](https://discordjs.guide)
 
 Currently available locales are:
 - English (en)
