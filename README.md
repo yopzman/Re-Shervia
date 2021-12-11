@@ -1,4 +1,4 @@
-# 🤖 Ariani Iofifteen (Discord Music Bot)
+# 🤖 K2K (Discord Music Bot)
 > Ariani Iofifteen is a Discord Music Bot built with discord.js & uses Command Handler from [discordjs.guide](https://discordjs.guide)
 
 Currently available locales are:
