@@ -1,0 +1,5 @@
+﻿{
+  "Description": "Domain ownership verification file for Microsoft 365 - place in the website root",
+  "Domain": "re-shervia.netlify.app",
+  "Id": "e489413a-393f-4826-9e27-7ed2da2d118f"
+}
